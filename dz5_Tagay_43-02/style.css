@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    text-align: center;
+}
+body {
+    background-color: brown;
+}
+.energy img {
+    height: 512px;
+    width: 512px;
+    border-radius: 50%;
+}
+button {
+    border: none;
+    background-color: brown ;
+}
+.buttonn img {
+    height: 2000px;
+    width: 2000px;
+    border-radius: 50%;
+    border: 30px solid black;
+}
+.coins img {
+    height: 150px;
+    width: 150px;
+}
+.coin span {
+    font-size: 500px;
+}
+.inner  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.energy span {
+    font-size: 500px;
+}
